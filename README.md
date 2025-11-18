@@ -27,72 +27,73 @@ I build modern, responsive web applications and enjoy exploring new technologies
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5"/> <b>HTML5</b> <br>
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5" title="HTML5"/>
   <progress value="95" max="100" style="width: 150px;"></progress>  
 
-  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3"/> <b>CSS3</b> <br>
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3" title="CSS3"/> 
   <progress value="90" max="100" style="width: 150px;"></progress>  
 
-  <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/> <b>JavaScript</b> <br>
+  <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" title="JavaScript"/> 
   <progress value="85" max="100" style="width: 150px;"></progress>  
 
-  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/> <b>Python</b> <br>
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python" title="Python"/>
   <progress value="50" max="100" style="width: 150px;"></progress>
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/> <b>React.js</b> <br>
+  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React" title="React"/>
   <progress value="85" max="100" style="width: 150px;"></progress>  
 
-  <img src="https://skillicons.dev/icons?i=vite" width="50" alt="Vite"/> <b>Vite</b> <br>
+  <img src="https://skillicons.dev/icons?i=vite" width="50" alt="Vite" title="Vite"/> 
   <progress value="80" max="100" style="width: 150px;"></progress>  
 
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS"/> <b>Tailwind CSS</b> <br>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS" title="Tailwind CSS"/> 
   <progress value="85" max="100" style="width: 150px;"></progress>  
 
-  <img src="https://img.shields.io/badge/DaisyUI-3F45D9?style=for-the-badge&logo=tailwindcss&logoColor=white" height="40" alt="DaisyUI"/> <b>DaisyUI</b> <br>
+  <img src="https://img.shields.io/badge/DaisyUI-3F45D9?style=for-the-badge&logo=tailwindcss&logoColor=white" height="40" alt="DaisyUI" title="DaisyUI"/>
   <progress value="75" max="100" style="width: 150px;"></progress>
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/> <b>Node.js</b> <br>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js" title="Node.js"/>
   <progress value="80" max="100" style="width: 150px;"></progress>  
 
-  <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express"/> <b>Express</b> <br>
+  <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express" title="Express"/>
   <progress value="75" max="100" style="width: 150px;"></progress>
 </p>
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/> <b>MongoDB</b> <br>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB" title="MongoDB"/> 
   <progress value="80" max="100" style="width: 150px;"></progress>  
 
-  <img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"/> <b>Firebase</b> <br>
+  <img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase" title="Firebase"/>
   <progress value="75" max="100" style="width: 150px;"></progress>
 </p>
 
 ### Deployment & Hosting
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel"/> <b>Vercel</b> <br>
+  <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel" title="Vercel"/> 
   <progress value="80" max="100" style="width: 150px;"></progress>  
 
-  <img src="https://skillicons.dev/icons?i=netlify" width="50" alt="Netlify"/> <b>Netlify</b> <br>
+  <img src="https://skillicons.dev/icons?i=netlify" width="50" alt="Netlify" title="Netlify"/> 
   <progress value="75" max="100" style="width: 150px;"></progress>
 </p>
 
 ### Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/> <b>Git</b> <br>
+  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" title="Git"/> 
   <progress value="90" max="100" style="width: 150px;"></progress>  
 
-  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/> <b>GitHub</b> <br>
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" title="GitHub"/> 
   <progress value="90" max="100" style="width: 150px;"></progress>  
 
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code"/> <b>VS Code</b> <br>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code" title="VS Code"/> 
   <progress value="95" max="100" style="width: 150px;"></progress>
 </p>
+
 
 ---
 
@@ -106,6 +107,19 @@ I build modern, responsive web applications and enjoy exploring new technologies
 
 ---
 
+
+## 📫 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-shukur-mahmud-387439261/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/MdShukurMahmud3" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/smanik5588" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:anik955720@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="tel:+8801799649027" target="_blank"><img src="https://img.shields.io/badge/Phone-01799649027-green?style=for-the-badge&logo=call&logoColor=white"/></a>
+  <a href="tel:+8801518627916" target="_blank"><img src="https://img.shields.io/badge/Alternate-01518627916-green?style=for-the-badge&logo=call&logoColor=white"/></a>
+</p>
+
+----
+
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmud014&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
@@ -113,16 +127,10 @@ I build modern, responsive web applications and enjoy exploring new technologies
 </p>
 
 ## 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mahmud014&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<p align="center">  
+  <img src="https://activity-graph.herokuapp.com/graph?username=mahmud014&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />  
 </p>
 
 ---
 
-## 📫 Connect with me
-<p align="left">
-  <a href="[https://www.linkedin.com/in/anikmahmud](https://www.linkedin.com/in/md-shukur-mahmud-387439261/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/MdShukurMahmud3" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/smanik5588" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:anik955720@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+
