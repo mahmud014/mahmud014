@@ -101,9 +101,9 @@ I build modern, responsive web applications and enjoy exploring new technologies
 
 | Project | Description | Tech Stack | Live |
 |---------|-------------|-----------|------|
-| Tourism Website | Responsive travel platform | React, Tailwind, Firebase | [🌐 Live](#) |
-| Food Delivery App | Fullstack food ordering | React, Node.js, MongoDB | [🌐 Live](#) |
-| Portfolio Website | Personal portfolio | React, Vite, Tailwind | [🌐 Live](#) |
+| Restaurant Website | Responsive Food Review Platform | React, Tailwind, Firebase, MongoDB | [🌐 Live](https://dishdive-e699b.web.app/) |
+| App Application | All application Store | React, Node.js | [🌐 Live](https://quantumcodeapp.netlify.app/) |
+| Emergency Service Website | Emergency Service | React, Vite, Tailwind | [🌐 Live](https://mahmud014.github.io/Emergency-Hotline-Assignment-5/) |
 
 ---
 
