@@ -122,14 +122,15 @@ I build modern, responsive web applications and enjoy exploring new technologies
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmud014&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud014&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://gitmystat.vercel.app/api?username=mahmud014&show_icons=true&theme=radical" width="400" />
+  <img src="https://gitmystat.vercel.app/api/top-langs/?username=mahmud014&layout=compact&theme=radical" width="400" />
 </p>
 
 ## 📈 GitHub Activity Graph
-<p align="center">  
-  <img src="https://activity-graph.herokuapp.com/graph?username=mahmud014&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmud014&theme=react-dark&hide_border=true" width="100%" />
 </p>
+
 
 ---
 
