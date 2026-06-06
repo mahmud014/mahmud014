@@ -10,16 +10,16 @@
 ---
 
 ## 📝 About Me
-Hi! I'm **Md. Shukur Mahmud**, a passionate **Fullstack Developer** specializing in **Next.js**, **React.js**, and **Node.js**.  
+Hi! I'm **Md. Shukur Mahmud**, a passionate **MERN Stack Developer** specializing in **Next.js**, **React.js**, and **Node.js**.  
 I build modern, responsive web applications and enjoy exploring new technologies. 
 
 ### 🔥 Current Activities
 - 💻 Building responsive web interfaces using **HTML5, CSS3, JavaScript**  
 - ⚛️ Developing front-end apps with **React.js** and **Vite**  
-- 🛠️ Creating fullstack projects with **Node.js**, **Express**, **MongoDB**, and **Firebase**  
+- 🛠️ Creating MERN stack projects with **Node.js**, **Express**, **MongoDB**, and **Firebase**  
 - 🎨 Designing UI with **Tailwind CSS** and **DaisyUI**  
 - 🚀 Deploying apps on **Vercel** and **Netlify**  
-- 📚 Learning **TypeScript**, Python, and advanced full-stack concepts  
+- 📚 Learning **TypeScript**, Python, and advanced MERN-stack concepts  
 
 ---
 
